@@ -1,5 +1,5 @@
 # Vuejs Todo App  ⚡️
-[![HitCount](http://hits.dwyl.com/abdulwahab0/https://githubcom/AbdulWahab0/ToDos-App-vuejs.svg)](http://hits.dwyl.com/abdulwahab0/https://githubcom/AbdulWahab0/ToDos-App-vuejs)
+
 ## A clean, beautiful and responsive To do App for Vue.js Developers!
 ![](demo.gif)
 
@@ -64,9 +64,3 @@ npm run build
 ```
 npm run test:unit
 ```
-## Contributors ✨
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/AbdulWahab0"><br /><sub><b>Abdul Wahab</b></sub></a><br /><a href="https://github.com/AbdulWahab0" title="Code">💻</a> <a href="https://github.com/AbdulWahab0" title="Documentation">📖</a> <a href="https://github.com/AbdulWahab0" title="Design">🎨</a> <a href="https://github.com/AbdulWahab0" title="Maintenance">🚧</a></td>
-  </tr>
-</table>
